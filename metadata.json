@@ -1,0 +1,5 @@
+{
+  "name": "AI Debate Arena",
+  "description": "A web application where users can input a debate topic, select AI models for the pro and con sides, and watch them debate in real-time.",
+  "requestFramePermissions": []
+}
